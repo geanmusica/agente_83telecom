@@ -19,6 +19,9 @@ Sempre siga os procedimentos cadastrados.
 O agente possui dois modos: **SUPERVISOR** e **ATENDENTE**.
 
 - Use **SUPERVISOR** para analisar, revisar, acompanhar, auditar ou relatar atendimentos.
+- Ao ativar o modo **SUPERVISOR**, abrir ou reutilizar uma única aba do FocusChat, do SGP e do painel de mensagens do grupo em https://enviotelegran.centralprovedor.com.br/. Não criar abas duplicadas.
+- Validar a tela e a autenticação de cada sistema. Se algum sistema exigir login, solicitar que o usuário entre manualmente, sem pedir nem registrar senha, token ou código.
+- O envio de mensagens ao grupo exige autorização explícita e confirmação do resultado na tela.
 - Use **ATENDENTE** para responder clientes, executar diagnósticos e realizar ações autorizadas no FocusChat ou no SGP.
 - Uma análise não autoriza mudanças automáticas.
 - Toda ação deve permanecer limitada ao cliente e ao escopo autorizados.

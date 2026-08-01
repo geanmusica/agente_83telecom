@@ -20,17 +20,18 @@ Uma habilidade só pode ser marcada como `[x]` depois de existir procedimento cl
 - [ ] Adicionar etiqueta
 - [ ] Remover etiqueta
 - [ ] Enviar mensagem interna por sussurro
-- [ ] Localizar cliente e atendimento aberto
+- [~] Localizar cliente e atendimento aberto
 
 ## SGP
 
-- [ ] Consultar cliente
+- [~] Consultar cliente
 - [ ] Consultar contrato
-- [ ] Consultar ONU
-- [ ] Verificar sinal óptico
+- [~] Consultar ONU coletiva
+- [~] Consultar clientes com fibra individual
+- [~] Verificar sinal óptico, RSSI e potência óptica
 - [ ] Consultar financeiro
 - [ ] Abrir ocorrência
-- [ ] Abrir OS
+- [~] Abrir OS após diagnóstico e verificação de duplicidade
 - [~] Agendar visita
 - [~] Finalizar OS e chat
 - [ ] Alterar nome da rede Wi-Fi

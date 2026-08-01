@@ -8,6 +8,6 @@ Base de conhecimento e procedimentos do agente de atendimento da 83Telecom.
 - `procedimentos/`: passo a passo das tarefas
 - `regras/`: limites e regras de decisão
 - `conhecimento/`: informações da empresa
-- `sistemas/`: informações sobre FocusChat e SGP
+- `sistemas/`: informações sobre FocusChat, SGP e o painel de mensagens do grupo
 - `habilidades/`: catálogo das ações que o agente sabe executar
 - `templates/`: modelos para criar novos documentos

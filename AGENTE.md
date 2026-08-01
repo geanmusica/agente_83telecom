@@ -35,5 +35,7 @@ Depois de cada interação operacional, atendimento, correção ou procedimento 
 6. Quando for conhecimento técnico ou operacional, salve em `conhecimento/`.
 7. Quando for uma função executável do agente, documente em `habilidades/`.
 8. Nunca sobrescreva uma regra confirmada sem verificar conflito com o conteúdo existente.
-9. Registre a atualização com uma mensagem de commit clara.
-10. Se não houver aprendizado novo, não altere o repositório.
+9. Registre cada aprendizado com os metadados `Aprendido em` (data local em America/Fortaleza) e `Confirmado por` (nome ou identificador interno do colaborador que ensinou ou validou a orientação).
+10. O campo `Confirmado por` deve identificar o colaborador responsável pela orientação, nunca o cliente usado como exemplo. Se a origem não estiver confirmada, não invente: solicite validação antes de registrar.
+11. Registre a atualização com uma mensagem de commit clara.
+12. Se não houver aprendizado novo, não altere o repositório.
